@@ -9,6 +9,7 @@ I'm an Android developer with 6 months of hands-on experience in building and de
  
  [![My Skills](https://skillicons.dev/icons?i=linkedin&theme=light)](https://skillicons.dev)
 
+
   ### Skills:
 
  [![My Skills](https://skillicons.dev/icons?i=androidstudio,java,kotlin,figma,gitlab,postman&theme=light)](https://skillicons.dev)
